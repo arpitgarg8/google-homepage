@@ -1,0 +1,36 @@
+#hlinks>a{
+    text-align: right;
+    text-decoration: none;
+    width:100%;
+    
+}
+#searchbox{
+    border-radius:20px;
+    width:400px;
+    height:32px
+    
+}
+#searchbar{
+    text-align: center;
+    
+    
+}
+#googlelogo{
+    margin-left: 80px;
+    height: 10%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#advsearch{
+    background-color:rgb(89, 132, 211);
+    text-decoration: none;
+}
+.button{
+    text-align: center;
+    margin: auto;
+}
+
+.button:hover{
+    background-color: brown;
+}
